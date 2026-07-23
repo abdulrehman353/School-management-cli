@@ -347,7 +347,7 @@ function mainMenu(){
 while(true){
 
 console.log("\n==============================");
-console.log(" Student Management System ");
+console.log(" School Management System ");
 console.log("==============================");
 
 console.log("1. Student Management");
